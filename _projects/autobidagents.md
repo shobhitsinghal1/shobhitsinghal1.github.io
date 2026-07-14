@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Automated Bidding in Electricity Markets
+title: Bidding under uncertainty in electricity markets
 description:
 img: assets/img/elecmarket.png
 importance: 2
