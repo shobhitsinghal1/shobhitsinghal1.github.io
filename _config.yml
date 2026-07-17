@@ -246,6 +246,9 @@ exclude:
   - _pages/repositories.md
   - _projects/stochmech.md
   - _projects/localmarketmech.md
+  - _drafts/
+  - _teachings/
+  - _books/
 keep_files:
   - CNAME
   - .nojekyll
